@@ -1,0 +1,33 @@
+running clean
+'build\lib' does not exist -- can't clean it
+'build\bdist.win-amd64' does not exist -- can't clean it
+'build\scripts-3.12' does not exist -- can't clean it
+running sdist
+running egg_info
+creating pybn.egg-info
+writing pybn.egg-info\PKG-INFO
+writing dependency_links to pybn.egg-info\dependency_links.txt
+writing namespace_packages to pybn.egg-info\namespace_packages.txt
+writing top-level names to pybn.egg-info\top_level.txt
+writing manifest file 'pybn.egg-info\SOURCES.txt'
+reading manifest file 'pybn.egg-info\SOURCES.txt'
+writing manifest file 'pybn.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating pybn-1.0.dev0
+creating pybn-1.0.dev0\pybn.egg-info
+copying files to pybn-1.0.dev0...
+copying helloworld.py -> pybn-1.0.dev0
+copying setup.py -> pybn-1.0.dev0
+copying pybn.egg-info\PKG-INFO -> pybn-1.0.dev0\pybn.egg-info
+copying pybn.egg-info\SOURCES.txt -> pybn-1.0.dev0\pybn.egg-info
+copying pybn.egg-info\dependency_links.txt -> pybn-1.0.dev0\pybn.egg-info
+copying pybn.egg-info\namespace_packages.txt -> pybn-1.0.dev0\pybn.egg-info
+copying pybn.egg-info\top_level.txt -> pybn-1.0.dev0\pybn.egg-info
+copying pybn.egg-info\zip-safe -> pybn-1.0.dev0\pybn.egg-info
+copying pybn.egg-info\SOURCES.txt -> pybn-1.0.dev0\pybn.egg-info
+Writing pybn-1.0.dev0\setup.cfg
+creating dist
+Creating tar archive
+removing 'pybn-1.0.dev0' (and everything under it)
